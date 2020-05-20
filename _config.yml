@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en_US"
@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : #"pseud0nymswebid" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -39,7 +39,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : 5 # 5 (default)
-    colorscheme          : light # "light" (default), "dark"
+    colorscheme          : dark # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -110,8 +110,8 @@ analytics:
 # Site Author
 author:
   name             : "Febrian"
-  avatar           : /assets/images/foto-profil.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Hey there ! I am using Jekyll"
+  avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Javascript & Linux Enthusiast"
   location         : "Yogyakarta, Indonesia"
   email            : #"solihinfebrian0@gmail.com"
   links:
@@ -123,16 +123,16 @@ author:
       # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/solihin_febrian"
+      url: "https://twitter.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      #url: "https://linkedin.com/in/pseud0nyms"
+      url: "https://linkedin.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      #url: "https://facebook.com/pseud0nyms"
+      url: "https://facebook.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/solihin_febrian"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -148,10 +148,10 @@ footer:
       url: https://github.com/pseud0nyms
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: https://gitlab.com/pseud0nyms
+      url: https://gitlab.com/
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      url: https://bitbucket.org/pseud0nyms
+      url: https://bitbucket.org/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: https://instagram.com/pseud0nyms.jpg

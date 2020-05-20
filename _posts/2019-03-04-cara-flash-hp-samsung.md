@@ -5,9 +5,9 @@ date:   2019-03-04 16:00:00 +0700
 permalink: /:title
 description: "Tutorial lengkap step by step cara flash hp android Samsung Galaxy J2 (SM-J200G) dengan menggunakan Odin di Laptop."
 excerpt: "Tutorial lengkap step by step cara flash hp android Samsung Galaxy J2 (SM-J200G) dengan menggunakan Odin di Laptop."
-header:
-  image: /assets/images/flash-samsung-j200g.png
-  caption: "Photo credit: [**Thumbnaily**](https://thumbnaily.site)"
+# header:
+#   image: /assets/images/flash-samsung-j200g.png
+#   caption: "Photo credit: [**Thumbnaily**](https://thumbnaily.site)"
 toc: true
 toc_label: "Daftar Isi"
 toc_icon: "cog"
