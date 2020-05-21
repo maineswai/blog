@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Febrian"
   avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "JavaScript & Linux Enthusiast"
+  bio              : #"JavaScript & Linux Enthusiast"
   location         : "Yogyakarta, Indonesia"
   email            : #"solihinfebrian0@gmail.com"
   links:
