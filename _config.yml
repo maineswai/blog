@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Febrian"
-  avatar           : /assets/images/foto-profil.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/shigeo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Blog personal buat sharing tutorial"
   location         : "Yogyakarta, Indonesia"
   email            : #"solihinfebrian0@gmail.com"
