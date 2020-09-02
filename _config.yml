@@ -20,7 +20,7 @@ locale                   : "en_US"
 title                    : "Blog" Personal
 title_separator          : "-"
 name                     : "Febrian"
-description              : "Javascript Enthusiast"
+description              : "Blog personal Febrian"
 url                      : "https://maineswai.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "maineswai/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Febrian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Blog personal"
+  bio              : "Javascript Enthusiast"
   location         : "Yogyakarta, Indonesia"
   email            : #"solihinfebrian0@gmail.com"
   links:
@@ -126,13 +126,13 @@ author:
       url: "https://twitter.com/maineswai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      # url: "https://linkedin.com/"
+      url: "https://linkedin.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
