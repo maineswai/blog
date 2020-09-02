@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en_US"
-title                    : "Febrian"
+title                    : "blog"
 title_separator          : "-"
 name                     : "Febrian"
 description              : "Blog personal Febrian"
@@ -123,16 +123,16 @@ author:
       # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/maineswai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://linkedin.com/"
+      # url: "https://linkedin.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/"
+      # url: "https://facebook.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
