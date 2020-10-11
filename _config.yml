@@ -96,7 +96,7 @@ social:
   type: Person # Person or Organization (defaults to Person)
   name: Febrian # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://linkedin.com/in/pseud0nyms
+    - https://linkedin.com/in/maineswai
 
 # Analytics
 analytics:
@@ -124,7 +124,7 @@ author:
       url: "https://twitter.com/maineswai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://linkedin.com/maineswai"
+      url: "https://linkedin.com/in/maineswai"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/maineswai"
@@ -137,10 +137,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: https://twitter.com/pseud0nyms
+      # url: https://twitter.com/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/pseud0nyms"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/maineswai
@@ -152,7 +152,7 @@ footer:
       url: https://bitbucket.org/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: https://instagram.com/pseud0nyms.jpg
+      # url: https://instagram.com/
 
 # Reading Files
 include:
