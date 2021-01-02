@@ -110,7 +110,7 @@ author:
   name: "Febrian"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Javascript & Linux Enthusiast"
-  location: "Yogyakarta, Indonesia"
+  location: "Lampung, Indonesia"
   email: #"solihinfebrian0@gmail.com"
   links:
     - label: "Email"
@@ -121,16 +121,16 @@ author:
       # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/maineswai"
+      #url: "https://twitter.com/maineswai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://linkedin.com/in/maineswai"
+      #url: "https://linkedin.com/in/maineswai"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/maineswai"
+      #url: "https://facebook.com/maineswai"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/maineswai"
+      #url: "https://instagram.com/maineswai"
 
 # Site Footer
 footer:
